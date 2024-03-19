@@ -1,16 +1,24 @@
-### Hi there 👋
+¡Hola! Soy Silvio Pacheco, y me complace darte la bienvenida a mi perfil. 👋
 
-<!--
-**SilviogPacheco/SilviogPacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤨 ¿Cómo llegué hasta acá?
+Llegué al mundo de la programación gracias a mi espíritu curioso, ya que siempre me interesó saber cómo funcionaban las cosas que usamos diariamente, en especial las que tienen que ver con la tecnología y he aquí, descubrí este maravilloso mundo y no dudé un segundo en aprender más sobre esto.
 
-Here are some ideas to get you started:
+🤔 ¿Qué tecnologías uso?
+Gracias al Bootcamp de Henry, adquirí conocimiento y experiencia fundamental para las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript | React.js | Node.js | Express.js | PostgreSQL | Sequelize | GIT | HTML | CSS
+
+Actualmente estoy perfeccionandome y aprendiendo nuevas tecnologias con los cursos de Platzi. Seguramente vendrán más, ya que aspiro a continuar creciendo en conocimiento y experiencia.
+
+
+😏 Mis proyectos
+Durante mi participacion el en bootcamp de Henry, tuve que hacer un proyecto individual, aplicando exclusivamente los conocimientos y tecnologías incluidas en la cursada (Node.js, React, React Router, Redux, Styled components, CSS modules, Express, Sequelize, PostgreSQL, Axios).
+
+Repo: [https://github.com/SilviogPacheco/PI-Dogs]
+
+
+📲 Contacto
+Linkedin: [www.linkedin.com/in/silvio-pacheco-297b802ba]
+
+Email: silviogpacheco@gmail.com
+
