@@ -20,7 +20,7 @@ Durante mi participacion el en bootcamp de Henry, tuve que hacer un proyecto ind
 
 Repo del proyecto individual sobre razas de perros: [https://github.com/SilviogPacheco/PI-Dogs]
 
-Repo del proyecto final sobre web de venta de zapatatillas: [https://github.com/SilviogPacheco/uuid-store]
+Repo del proyecto final sobre web de venta de zapatillas: [https://github.com/SilviogPacheco/uuid-store]
 
 ## 📲 Contacto
 
